@@ -1,0 +1,100 @@
+body{
+    margin: 0px;
+    background-image: url("https://w-dog.ru/wallpapers/9/17/536949563821058/gory-tibet-doroga-mashina-tuchi-oblaka.jpg");
+    height: 100vh;
+    background-repeat: repeat-y;
+    background-size: cover;
+    border: none;
+}
+
+.nav{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.nav-item{
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700px;
+    font-size: 14px;
+    margin-right: 25px;
+}
+.num{
+    color: white;
+    text-decoration: none;
+    font-weight: 700px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+}
+.KiaCeed{
+    display: flex;
+    margin-left: 10px;
+}
+p{
+    margin-left: 50px;
+    color: white;
+    font-size: 30px;
+}
+
+p2{
+    color: cornflowerblue;
+    font-size: 30px;
+}
+
+
+p3{
+    color: white;
+    font-size: 50px;
+}
+p4{
+    color: white;
+    font-size: 30px;
+}
+p5{
+  color: green;
+    font-size: 30px;
+}
+.Sale2{
+    font-size: 50px;
+}
+p6{
+    font-size: 150px;
+    color: white;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+p6{
+    font-size: 50px;
+    margin-left: 600px;
+}
+p7{
+    color: orange;
+    font-size: 30px;
+}
+p8{
+   color: white;
+    font-size: 300px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    margin-left: 600px;
+}
+p9{
+    color: aqua;
+    font-size: 20px;
+}
+p10{
+    color: white;
+    font-size: 30px;
+}
+p11{
+    color: red;
+    font-size: 30px;
+}
